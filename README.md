@@ -5,7 +5,7 @@ Extensys standard camera and Stereocanera calibration with 3D bubble reconstruct
 
 ## Getting started
 
-Install via pip:
+Install via pip [!pip](https://pypi.org/):
 ```python
 python3 -m pip install ex-camera
 ```
