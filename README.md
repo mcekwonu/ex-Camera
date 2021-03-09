@@ -1,4 +1,4 @@
-# exCamera
+# ex-Camera
 
 Extensys standard camera and Stereocanera calibration with 3D bubble reconstruction and generation of point cloud
 
